@@ -1,5 +1,7 @@
 # PremiumUILib ✨
-
+## 👤 Author
+Created by **potatomanty-stack**  
+GitHub: https://github.com/potatomanty-stack
 A modern, premium Roblox UI Library built for developers who want clean visuals, smooth animations, and flexibility.
 
 ## ✨ Features
