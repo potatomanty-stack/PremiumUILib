@@ -40,6 +40,7 @@ Window:Toggle("Auto Farm", false, function(state)
     print("Auto Farm:", state)
 end)
 
+======================================================≈=========================================================
 
 local UI = loadstring(game:HttpGet(
     "https://raw.githubusercontent.com/potatomanty-stack/PremiumUILib/refs/heads/main/PremiumUILibrary.lua"
@@ -60,6 +61,3 @@ Window:Toggle("Enable Feature", false, function(state)
     print("Feature:", state)
 end)
 
-You can copy **everything between the triple backticks** and paste it directly into your README.md — it will render nicely on GitHub.  
-
-If you want, I can also **add a “Getting Started” section with images and badges** to make it look professional. Do you want me to do that?
